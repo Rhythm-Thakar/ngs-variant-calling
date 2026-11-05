@@ -1,0 +1,10 @@
+raw/
+ref/
+aln/
+trimmed/
+*.fastq
+*.fq.gz
+*.bam
+*.bai
+pyenv/
+.ipynb_checkpoints/
